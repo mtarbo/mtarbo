@@ -1,16 +1,24 @@
-## Hi there 👋
+# Welcome to My Profile!
 
-<!--
-**mtarbo/mtarbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Madeleine Arbo! 👋
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 I'm studying Graphic Information Technology at Arizona State University.
+- 🛠️ My technical skills include: 
+  - Programming Languages: JavaScript, HTML/CSS
+  - Tools & Platforms: Git, GitHub, Visual Studio Code
+- 🎯 My goal is to pursue a career in **cybersecurity** after graduation.
+- 🥋 Fun fact: I train in Muay Thai kickboxing and just had my debut fight in November!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+- Coding cool projects 🖥️
+- Learning new tech skills 📚
+- Muay Thai kickboxing 🥊
+
+## Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/madeleine-arbo-403002238/)
+- [CodePen Profile](https://codepen.io/your-profile)
+- [Behance Profile](https://www.behance.net/madeleinearbo)
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=mtarbo&show_icons=true&theme=radical)
+
